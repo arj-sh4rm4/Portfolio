@@ -2,8 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
+<<<<<<< HEAD
   AiOutlineTwitter,
   AiFillInstagram,
+=======
+  AiFillMail,
+>>>>>>> 7382ec2d (Clean commit with updated code)
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -48,7 +52,11 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
+<<<<<<< HEAD
                 <AiFillGithub />
+=======
+                <AiFillMail />
+>>>>>>> 7382ec2d (Clean commit with updated code)
               </a>
             </li>
           </ul>
@@ -59,3 +67,7 @@ function Footer() {
 }
 
 export default Footer;
+<<<<<<< HEAD
+=======
+//Footer Page update
+>>>>>>> 7382ec2d (Clean commit with updated code)

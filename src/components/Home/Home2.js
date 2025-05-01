@@ -4,8 +4,11 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
+<<<<<<< HEAD
   AiOutlineTwitter,
   AiFillInstagram,
+=======
+>>>>>>> 7382ec2d (Clean commit with updated code)
   AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
